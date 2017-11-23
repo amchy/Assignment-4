@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://Assignment4.com/index.html</loc>
+    <lastmod>2017-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Assignment4.com/images/pasted%20image%20500x333.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Assignment4.com/images/pasted%20image%20500x3332.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Assignment4.com/images/metal%20oval%20button%20on%20stainless%20steel%20background%20pay%20now%203d%20icon.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Assignment4.com/images/pasted%20image%201920x1200.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Assignment4.com/images/pasted%20image%20454x335.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Assignment4.com/images/pasted%20image%20720x480.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Assignment4.com/images/pasted%20image%20450x370.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
